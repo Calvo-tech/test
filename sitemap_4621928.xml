@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://calvo-tech.github.io/rivertechconsulting-ltd/</loc>
+       <lastmod>2025-10-22T14:49:23+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/rivertechconsulting-ltd/index.html</loc>
+       <lastmod>2025-10-22T14:49:23+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/rivertechconsulting-ltd/about.html</loc>
+       <lastmod>2025-10-22T14:49:23+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/rivertechconsulting-ltd/services.html</loc>
+       <lastmod>2025-10-22T14:49:23+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/rivertechconsulting-ltd/bronchure.html</loc>
+       <lastmod>2025-10-22T14:49:23+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/rivertechconsulting-ltd/contact.html</loc>
+       <lastmod>2025-10-22T14:49:23+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+</urlset>
