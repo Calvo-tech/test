@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://calvo-tech.github.io/test101/</loc>
+       <lastmod>2025-10-22T14:19:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/test101/index.html</loc>
+       <lastmod>2025-10-22T14:19:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/test101/about.html</loc>
+       <lastmod>2025-10-22T14:19:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/test101/services.html</loc>
+       <lastmod>2025-10-22T14:19:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/test101/bronchure.html</loc>
+       <lastmod>2025-10-22T14:19:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://calvo-tech.github.io/test101/contact.html</loc>
+       <lastmod>2025-10-22T14:19:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+</urlset>
